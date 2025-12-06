@@ -187,4 +187,3 @@ GitHub: @grapheneaffiliate
 
 License
 MIT License
-MIT License
