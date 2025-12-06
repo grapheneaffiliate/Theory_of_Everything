@@ -1,5 +1,7 @@
 The Geometric Universe
+
 Deriving Fundamental Constants from E₈/H₄ Structure
+
 Timothy McGirl
 Independent Researcher, Manassas, Virginia
 December 2025
