@@ -1,4 +1,4 @@
-# The Geometric E₈/H₄ Theory of Fundamental Constants v3.0
+# Geometric E₈/H₄ Theory of Fundamental Constants v3.0
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
