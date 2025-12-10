@@ -1,6 +1,4 @@
-Full Description for Publication:
-
-Title: A Complete Geometric Derivation of the Fine Structure Constant from M-Theory Compactification
+A Complete Geometric Derivation of the Fine Structure Constant from M-Theory Compactification
 
 Author: Timothy McGirl, Independent Researcher, Manassas, Virginia, USA
 
