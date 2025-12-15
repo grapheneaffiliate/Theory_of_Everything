@@ -4,7 +4,7 @@
 **Author:** Timothy McGirl  
 **Affiliation:** Independent Researcher, Manassas, Virginia, USA  
 **Date:** December 2025  
-**[Read the Complete Theory of Everything Paper (PDF)](https://github.com/grapheneaffiliate/Theory_of_Everything/blob/main/GSM_Complete_Theory_of_Everything_Paper.pdf)
+[Read the Complete Theory of Everything Paper (PDF)](https://github.com/grapheneaffiliate/Theory_of_Everything/blob/main/GSM_Complete_Theory_of_Everything_Paper.pdf)
 
 ---
 
