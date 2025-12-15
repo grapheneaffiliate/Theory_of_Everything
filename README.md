@@ -1,3 +1,5 @@
+https://doi.org/10.5281/zenodo.17933226
+
 # GEOMETRIC STANDARD MODEL (GSM)
 **Version 3.9 FINAL | December 14, 2025 | Timothy McGirl**
 
