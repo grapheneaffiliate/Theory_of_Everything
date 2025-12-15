@@ -4,7 +4,7 @@
 **Author:** Timothy McGirl  
 **Affiliation:** Independent Researcher, Manassas, Virginia, USA  
 **Date:** December 2025  
-**License:** CC-BY 4.0
+**GSM_Complete_Theory_of_Everything_Paper.pdf
 
 ---
 
