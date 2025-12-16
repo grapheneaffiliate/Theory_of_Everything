@@ -1,6 +1,5 @@
 <a href="https://doi.org/10.5281/zenodo.17945736"><img src="https://zenodo.org/badge/1111213788.svg" alt="DOI"></a> https://orcid.org/0009-0005-4641-6532
 
-================================================================================
 A CANDIDATE UNIFICATION FRAMEWORK FROM E8 x H4 CASIMIR EIGENVALUES
 ================================================================================
 Author: Timothy McGirl
