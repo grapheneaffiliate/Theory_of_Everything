@@ -217,7 +217,7 @@ Validation:
 
 6. GSM_HODGE_VALIDATED.md - (NEW) Summary of Quintic Threefold Test (Code available upon request or in v10)
 
-7. https://www.google.com/search?q=GSM_Hodge_ROC.png - Validation performance graph
+7. GSM_Hodge_ROC.png - Validation performance graph
 
 Documentation:
 
